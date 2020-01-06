@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/green-roofs/static/css/main.b100e6da.chunk.css",
-    "main.js": "/green-roofs/static/js/main.2ebe9c02.chunk.js",
-    "main.js.map": "/green-roofs/static/js/main.2ebe9c02.chunk.js.map",
-    "runtime-main.js": "/green-roofs/static/js/runtime-main.c4ba69b7.js",
-    "runtime-main.js.map": "/green-roofs/static/js/runtime-main.c4ba69b7.js.map",
-    "static/js/2.99352bd4.chunk.js": "/green-roofs/static/js/2.99352bd4.chunk.js",
-    "static/js/2.99352bd4.chunk.js.map": "/green-roofs/static/js/2.99352bd4.chunk.js.map",
+    "main.css": "/green-roofs/static/css/main.158e5dd7.chunk.css",
+    "main.js": "/green-roofs/static/js/main.f3c48d1a.chunk.js",
+    "main.js.map": "/green-roofs/static/js/main.f3c48d1a.chunk.js.map",
+    "runtime-main.js": "/green-roofs/static/js/runtime-main.79021c4c.js",
+    "runtime-main.js.map": "/green-roofs/static/js/runtime-main.79021c4c.js.map",
+    "static/css/2.64a99b10.chunk.css": "/green-roofs/static/css/2.64a99b10.chunk.css",
+    "static/js/2.2dbe3547.chunk.js": "/green-roofs/static/js/2.2dbe3547.chunk.js",
+    "static/js/2.2dbe3547.chunk.js.map": "/green-roofs/static/js/2.2dbe3547.chunk.js.map",
     "index.html": "/green-roofs/index.html",
-    "precache-manifest.8872493322e3e2fa7c347bdefe2b2ac3.js": "/green-roofs/precache-manifest.8872493322e3e2fa7c347bdefe2b2ac3.js",
+    "precache-manifest.ffecdb2426d6ed76c64726b8eec3ee5e.js": "/green-roofs/precache-manifest.ffecdb2426d6ed76c64726b8eec3ee5e.js",
     "service-worker.js": "/green-roofs/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/green-roofs/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/green-roofs/static/media/logo.25bf045c.svg"
+    "static/css/2.64a99b10.chunk.css.map": "/green-roofs/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.158e5dd7.chunk.css.map": "/green-roofs/static/css/main.158e5dd7.chunk.css.map",
+    "static/js/2.2dbe3547.chunk.js.LICENSE": "/green-roofs/static/js/2.2dbe3547.chunk.js.LICENSE",
+    "static/media/index.scss": "/green-roofs/static/media/green-building-top.8a4c86e8.jpg",
+    "static/media/green-roofs-logo-leaf.svg": "/green-roofs/static/media/green-roofs-logo-leaf.41eb8d90.svg",
+    "static/media/green-roofs-logo.svg": "/green-roofs/static/media/green-roofs-logo.9d3a3414.svg",
+    "static/media/heatmap.jpg": "/green-roofs/static/media/heatmap.dc9cf7d9.jpg",
+    "static/media/zaitra-logo.svg": "/green-roofs/static/media/zaitra-logo.34b5f337.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4ba69b7.js",
-    "static/js/2.99352bd4.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.2ebe9c02.chunk.js"
+    "static/js/runtime-main.79021c4c.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.2dbe3547.chunk.js",
+    "static/css/main.158e5dd7.chunk.css",
+    "static/js/main.f3c48d1a.chunk.js"
   ]
 }
