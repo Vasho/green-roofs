@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/green-roofs/precache-manifest.ffecdb2426d6ed76c64726b8eec3ee5e.js"
+  "/green-roofs/precache-manifest.464634cde7df6d7bc87575652859bb96.js"
 );
 
 self.addEventListener('message', (event) => {
